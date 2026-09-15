@@ -1,0 +1,17 @@
+## Interface: 110207
+## Title: Weather-Cycle
+## Notes: Set and cycle the weather and time of day for your party or raid — an immersion tool for roleplayers.
+## Author: nors3ai
+## Version: 1.0.0
+## SavedVariables: WeatherCycleDB
+## IconTexture: Interface\Icons\INV_Misc_PocketWatch_01
+## X-Category: Roleplay
+## X-Website: https://github.com/nors3ai/weather-cycle
+
+Data.lua
+Core.lua
+Broadcast.lua
+Toast.lua
+UI.lua
+Minimap.lua
+Options.lua
